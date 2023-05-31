@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="client-patent-sap-v1">
+  <DisplayName/>
+  <Description>Obtain paten from Client SAP</Description>
+  <CreatedAt>1685549097331</CreatedAt>
+  <LastModifiedAt>1685549097331</LastModifiedAt>
+  <BasePaths>/client-patent-sap/v1</BasePaths>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
